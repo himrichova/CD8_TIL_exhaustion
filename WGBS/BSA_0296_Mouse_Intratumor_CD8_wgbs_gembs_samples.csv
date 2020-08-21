@@ -1,0 +1,7 @@
+sample_name,barcode,dataset,flowcell,lane,platform,center,File1,File2,library
+Tumor_high_1,Tumor_high_1_S50545,Tumor_high_1_S50545,BSF_0587_H5F2KBBXY,3,HiSeq3000,CeMM_BSF,Tumor_high_1_S50545.r1.fastq.gz,Tumor_high_1_S50545.r2.fastq.gz,ANW_07POOL1_L3458
+Tumor_high_2,Tumor_high_2_S50544,Tumor_high_2_S50544,BSF_0587_H5F2KBBXY,3,HiSeq3000,CeMM_BSF,Tumor_high_2_S50544.r1.fastq.gz,Tumor_high_2_S50544.r2.fastq.gz,ANW_07POOL1_L3458
+Tumor_high_3,Tumor_high_3_S55785,Tumor_high_3_S55785,BSF_0659_HCJYTBBXY,1,HiSeq4000,CeMM_BSF,Tumor_high_3_S55785.r1.fastq.gz,Tumor_high_3_S55785.r2.fastq.gz,ANW10POOL1_L3774
+Tumor_high_4,Tumor_high_4_S55786,Tumor_high_4_S55786,BSF_0659_HCJYTBBXY,1,HiSeq4000,CeMM_BSF,Tumor_high_4_S55786.r1.fastq.gz,Tumor_high_4_S55786.r2.fastq.gz,ANW10POOL1_L3774
+Tumor_low_4,Tumor_low_4_S50543,Tumor_low_4_S50543,BSF_0587_H5F2KBBXY,3,HiSeq3000,CeMM_BSF,Tumor_low_4_S50543.r1.fastq.gz,Tumor_low_4_S50543.r2.fastq.gz,ANW_07POOL1_L3458
+Tumor_low_6,Tumor_low_6_S55788,Tumor_low_6_S55788,BSF_0659_HCJYTBBXY,1,HiSeq4000,CeMM_BSF,Tumor_low_6_S55788.r1.fastq.gz,Tumor_low_6_S55788.r2.fastq.gz,ANW10POOL1_L3774 

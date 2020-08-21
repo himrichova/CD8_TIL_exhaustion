@@ -1,0 +1,7 @@
+sample_name,ID,filename_bed,tissue,group,custom,custom2
+Tumor_high_1,S50545,Tumor_high_1_S50545_cpg.bed.gz,tumor,tumor_high,tumor_high,tumor_high
+Tumor_high_2,S50544,Tumor_high_2_S50544_cpg.bed.gz,tumor,tumor_high,tumor_high,tumor_high
+Tumor_high_3,S55785,Tumor_high_3_S55785_cpg.bed.gz,tumor,tumor_high,tumor_high,tumor_high
+Tumor_high_4,S55786,Tumor_high_4_S55786_cpg.bed.gz,tumor,tumor_high,tumor_high,tumor_high
+Tumor_low_4,S50543,Tumor_low_4_S50543_cpg.bed.gz,tumor,tumor_low,tumor_low,tumor_low
+Tumor_low_6,S55788,Tumor_low_6_S55788_cpg.bed.gz,tumor,tumor_low,tumor_low,tumor_low
